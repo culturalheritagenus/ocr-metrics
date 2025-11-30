@@ -3,7 +3,7 @@ Unit tests for jawi_metrics
 """
 
 import pytest
-from jawi_metrics import cer, wer, normalize_text
+from ocr_metrics import cer, wer, normalize_text
 
 
 class TestNormalizeText:

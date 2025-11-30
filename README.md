@@ -13,7 +13,7 @@ pip install git+https://github.com/culturalheritagenus/ocr-metrics.git
 ### Basic Example
 
 ```python
-from jawi_metrics import cer, wer
+from ocr_metrics import cer, wer
 
 # Character Error Rate
 reference = "سلام عليكم"
