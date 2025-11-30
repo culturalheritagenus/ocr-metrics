@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "jawi-metrics"
+name = "ocr-metrics"
 version = "0.1.0"
 description = "CER and WER metrics for Jawi OCR evaluation"
 readme = "README.md"
