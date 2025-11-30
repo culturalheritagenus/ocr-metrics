@@ -11,4 +11,4 @@ requires-python = ">=3.8"
 dependencies = []
 
 [tool.setuptools]
-packages = ["jawi_metrics"]
+packages = ["ocr_metrics"]

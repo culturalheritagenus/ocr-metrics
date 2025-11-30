@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from jawi_metrics import cer, wer, normalize_text
+from ocr_metrics import cer, wer, normalize_text
 
 print("Testing basic functionality...")
 
